@@ -1,0 +1,1 @@
+1. Ignorar 'sript_proba.sh', es para probar cosas
